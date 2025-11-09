@@ -46,7 +46,7 @@ This project is fully documented across multiple files:
 
 ### High-Level Design
 
-``mermaid
+```mermaid
 graph TB
     subgraph Client["Client Layer"]
         CLI[CLI Client]
